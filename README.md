@@ -14,6 +14,6 @@
 
 <p><img src="assets/tech-stack.gif" alt="Scrolling tools: TypeScript, React, JavaScript, HTML, CSS, Vite, Node.js, discord.js, Python, Supabase, Cloudflare, Railway, Paddle, GitHub, Git, Figma, Canva." width="760"></p>
 
-<a href="https://bamba.pages.dev"><strong>bamba.pages.dev</strong></a> · <strong>Discord:</strong> <code>bamba2307</code>
+<a href="https://bambadev.me"><strong>bambadev.me</strong></a> · <strong>Discord:</strong> <code>bamba2307</code>
 
 </div>

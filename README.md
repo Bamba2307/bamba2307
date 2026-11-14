@@ -1,6 +1,6 @@
 <div align="center">
 
-<p><a href="https://bamba.pages.dev"><img src="assets/banner.png" alt="Hi, I'm Bamba. i make things from nothing." width="760"></a></p>
+<p><a href="https://bambadev.me"><img src="assets/banner.png" alt="Hi, I'm Bamba. i make things from nothing." width="760"></a></p>
 
 <p><img src="assets/terminal.png" alt="bamba ~ about. $ cat about.txt: i build websites, discord bots, and the tools i wish already existed. $ how --it-works: code, a database, a discord bot, then a lot of testing until it stops breaking." width="760"></p>
 
